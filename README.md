@@ -10,8 +10,8 @@ I specialize in building modern, responsive web applications with clean UI/UX. C
 
 <div align="center">
 
-![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=razashaikh22&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razashaikh22&layout=compact&theme=radical&hide_border=true)
+![Raza's GitHub stats](https://github-readme-stats-git-main-razashaikh22s-projects.vercel.app/api?username=razashaikh22&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-main-razashaikh22s-projects.vercel.app/api/top-langs/?username=razashaikh22&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -46,7 +46,7 @@ I specialize in building modern, responsive web applications with clean UI/UX. C
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=razashaikh22&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=razashaikh22&theme=radical&hide_border=true)
 
 </div>
 
