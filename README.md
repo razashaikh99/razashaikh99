@@ -6,17 +6,6 @@ I specialize in building modern, responsive web applications with clean UI/UX. C
 
 ---
 
-## 📊 Quick Overview
-
-<div align="center">
-
-![Raza's GitHub stats](https://github-readme-stats-git-main-razashaikh22s-projects.vercel.app/api?username=razashaikh22&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats-git-main-razashaikh22s-projects.vercel.app/api/top-langs/?username=razashaikh22&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
@@ -39,16 +28,6 @@ I specialize in building modern, responsive web applications with clean UI/UX. C
 - 💻 **Web & Mobile App Development** - Saylani Mass IT Training
 - 🤖 **Currently Learning**: Agentic AI & Node.js
 - 🚀 **Goal**: Becoming a Full-Stack Developer
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=razashaikh22&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
