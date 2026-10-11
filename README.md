@@ -6,8 +6,6 @@
 
 **Building responsive, accessible, and user-focused web experiences.**
 
-📍 Karachi, Pakistan &nbsp;•&nbsp; 💼 Junior Frontend Developer at **DigiTrends Pvt Ltd**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://raza-shaikh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raza-shaikh/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhrazamehmood@gmail.com)
@@ -92,9 +90,9 @@ I'm a **Frontend Developer with 1+ year of professional experience**, specializi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razashaikh22&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razashaikh99&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razashaikh22&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razashaikh99&layout=compact&hide_border=true&theme=transparent)
 
 </div>
 
